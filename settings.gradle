@@ -1,0 +1,1 @@
+include ':app', 'MylocationLogger2', 'QuickCoding1', 'MyLocation'
